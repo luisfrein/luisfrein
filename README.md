@@ -12,7 +12,7 @@ The aspect of Data Science that I've enjoy the most so far is Data visualization
 
 Now I'm taking my time learning statistics, learning the basics of Python 🐍. I'm also contributing weekly to the #Tidytuesday challenge from the `R4DS Online Learning Community`. You can find my contributions in my [R_tidytuesday](https://github.com/luisfrein/R_Tidytuesday) repository. 
 
-Contact:  <a href="www.linkedin.com/in/luisfrein">:man_office_worker: LinkedIn</a> | <a href="https://twitter.com/Luisfreii/">:bird: Twitter.</a>
+Contact:  <a href="https://www.linkedin.com/in/luisfrein">:man_office_worker: LinkedIn</a> | <a href="https://twitter.com/Luisfreii/">:bird: Twitter.</a>
 
 ---
 ![alt text](https://github.com/allisonhorst/stats-illustrations/blob/master/rstats-artwork/monster_support.jpg?raw=true)
