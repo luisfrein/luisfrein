@@ -1,4 +1,4 @@
-### Hi there, I'm Luis 👨‍💻:<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there, I'm Luis 👨‍💻<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p>
   <img width="250" align='right' src="https://github.com/Zetluis/R_Tidytuesday/blob/master/2020/W48_Washington_Trails/washington_ridge_plot.png">
