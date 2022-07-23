@@ -1,8 +1,6 @@
 ### Hi there, I'm Luis 👨‍💻<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p>
-  <img width="280" align='right' src="https://github.com/luisfrein/-30DayChartChallenge/blob/master/1.%20Part-to-whole/part-to-whole.png">
-</p>
+
 I am a 24 yeard old Economics Student at the Central University of Venezuela (known in Spanish as UCV). I learned how to code in R recently and every day is an opportunity to learn something new. I'm currently more than a year into my R journey and it has been a lot of fun and a lot of frustration as well (especially when trying to learn regular expressions).  
 
 
